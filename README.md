@@ -1,12 +1,12 @@
 # Làm việc với Redux thông qua hooks 🎉
 
 - useSelector()
-- useDispatch() 
+- useDispatch()
 
 
 1. Setup redux store
 
-- Reducers & Root reducer 
+- Reducers & Root reducer
 - Action creators
 - Store
 
